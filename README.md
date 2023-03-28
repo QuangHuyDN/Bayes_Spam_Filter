@@ -1,2 +1,2 @@
-# Bayes_Spam_Filter
+# Bayes Spam Filter
 Implement spam filtering using Bayesian Classification
